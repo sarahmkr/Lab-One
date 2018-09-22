@@ -1,0 +1,50 @@
+{
+	"name": [
+		"Gabby",
+		"Polly",
+		"Crystal",
+		"Mariam"
+	],
+	"occupation": [
+		"Pharmacist",
+		"Web Designer",
+		"Doctor",
+		"Veterinarian"
+	],
+	"origin": [
+		"#name#, a #occupation#, was #always# #expecting# this #thing# at #Place#. So #she# #action#"
+	],
+	"always": [
+		"rarely",
+		"sometimes",
+		"never",
+		""
+	],
+	"expecting": [
+		"anticipating",
+		"imagining",
+		"thinking"
+	],
+	"Place": [
+		"the Christmas party",
+		"the doctor",
+		"the end"
+	],
+	"thing": [
+		"discovery",
+		"idea",
+		"to happen",
+		"story",
+		"turnout"
+	],
+	"action": [
+		"took action",
+		"ignored it",
+		"attacked",
+		"left"
+	],
+	"she": [
+		"she",
+		""
+	]
+}
